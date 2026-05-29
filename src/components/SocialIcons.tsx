@@ -2,7 +2,7 @@ import {
   FaGithub,
   FaInstagram,
   FaLinkedinIn,
-  FaXTwitter,
+  FaXTwitter
 } from "react-icons/fa6";
 import "./styles/SocialIcons.css";
 import { TbNotes } from "react-icons/tb";
@@ -80,7 +80,11 @@ const SocialIcons = () => {
           </a>
         </span>
       </div>
-      <a className="resume-button" href="#">
+      <a
+        className="resume-button"
+        href="/resume/Pranay_resume.pdf"
+        download="Pranay_resume.pdf"
+      >
         <HoverLinks text="RESUME" />
         <span>
           <TbNotes />
