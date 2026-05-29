@@ -6,9 +6,11 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          I'm Pranay Kumar, a Full Stack Developer passionate about building
+          fast, scalable, and user-friendly web applications. I specialize in
+          React.js, Next.js, and Node.js, with hands-on experience integrating
+          AI features, building CRM platforms, and optimizing performance at
+          scale. I love turning complex problems into clean, intuitive products.
         </p>
       </div>
     </div>
